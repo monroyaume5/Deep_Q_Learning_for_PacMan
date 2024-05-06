@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, a Reinforcement Learning Deep Q-Learning Model was developed and trained to play the PacMan game. The implementation builds upon the codebase from the [CS 188 Spring 2024 course at UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj6/).
+In this INFO 550 Artificial Intelligence project, a Reinforcement Learning Deep Q-Learning Model was developed and trained to play the PacMan game. The implementation builds upon the codebase from the [CS 188 Spring 2024 course at UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/sp24/projects/proj6/).
 
 ## Running the Code
 
