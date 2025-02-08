@@ -10,3 +10,7 @@ To run the PacMan Deep Q-Learning Model, use the following command:
 
 ```bash
 python pacman.py -p PacmanDeepQAgent -x 6000 -n 6010 -l smallGrid
+```
+
+## Project Report
+[INFO550_Project_Report.pdf](https://github.com/monroyaume5/Deep_Q_Learning_for_PacMan/blob/main/INFO550_Project_Report.pdf)
